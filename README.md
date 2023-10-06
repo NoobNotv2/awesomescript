@@ -5,4 +5,4 @@ better awesomescript is lolcat awesomescript that noobnot makes it better and ch
 ```
 So what are you waiting for?
 Get Script here :
-> loadstring(game:HttpGet(''))()
+> loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobNotv2/awesomescript/main/Script.lua'))()
