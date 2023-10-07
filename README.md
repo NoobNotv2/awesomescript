@@ -8,8 +8,3 @@ Get Script here :
 
 > loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobNotv2/awesomescript/main/Script.lua'))()
 
-And if your using this loadstring :
-
-> loadstring(game:HttpGet("https://raw.githubusercontent.com/e56he56e77he457eh56/Ak/main/Z"))()
-
-Use the NEW ONE!
