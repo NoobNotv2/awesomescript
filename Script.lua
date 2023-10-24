@@ -880,6 +880,9 @@ Tab:Toggle("Waste Other Players Items","Repeatedly uses everyone else's items li
         end
     end
 end)
+Tab2:Button("Sprint","",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobNotv2/Lua/main/sprint.lua"))()
+end)
 if Floor.Value == "Rooms" then
     Tab2:Toggle("Disable A-90","Disables A-90 visual, sound, and damage.",false,function(Bool)
         DisableA90 = Bool
